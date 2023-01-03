@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuscpellanda&show_icons=true&theme=radical)](https://github.com/matheuscpellanda)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscpellanda&layout=compact)](https://github.com/matheuscpellanda)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscpellanda&layout=compact&show_icons=true&theme=radical)](https://github.com/matheuscpellanda)
 
 <!--
 **matheuscpellanda/matheuscpellanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
