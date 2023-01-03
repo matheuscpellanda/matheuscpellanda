@@ -56,7 +56,7 @@
   [![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)]()
   
 ## Connect with me:
-![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:matheuscpellanda@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matheuscpellanda)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/5527998792958)
 
