@@ -30,7 +30,7 @@
 
 ## Some Projects:
   
-<a href="https://matheuscpellanda.github.io/trybetunes/search" target="_blank" rel="noreferrer"> <img src="https://github.com/matheuscpellanda/trybetunes/blob/main/src/img/logo.png" alt="flutter" height="40"/> </a>
+<a href="https://matheuscpellanda.github.io/trybetunes" target="_blank" rel="noreferrer"> <img src="https://github.com/matheuscpellanda/trybetunes/blob/main/src/img/logo.png" alt="flutter" height="40"/> </a>
   
 ## Languages and Tools:
 <p align="left">
