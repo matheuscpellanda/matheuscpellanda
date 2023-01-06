@@ -29,8 +29,12 @@
 </div>
 
 ## Some Projects:
-  
+
+<h3 align="center">Trybe Projects</h3>
 <a href="https://matheuscpellanda.github.io/trybetunes" target="_blank" rel="noreferrer"> <img src="https://github.com/matheuscpellanda/trybetunes/blob/main/src/img/logo.png" alt="TrybeTunes" height="40"/> </a>
+<a href="https://matheuscpellanda.github.io/tryunfo" target="_blank" rel="noreferrer"> <img src="https://github.com/matheuscpellanda/tryunfo/blob/main/src/img/logo_tryunfo.png" alt="Tryunfo" height="40"/> </a>
+
+<h3 align="center">Personal Projects</h3>
 <a href="https://matheuscpellanda.github.io/erp-api-documentation/" target="_blank" rel="noreferrer"> <img src="https://github.com/matheuscpellanda/erp-api-documentation/blob/main/public/owl_icon.png" alt="ERP API" height="40"/> </a>
   
 ## Languages and Tools:
