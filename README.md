@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matheus Camargo Pellanda</h1>
+<h1 align="center">Hi 👋, I'm Matheus</h1>
 
 ## I'm a programming student focused on:
   - Web Development <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
