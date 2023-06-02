@@ -31,6 +31,7 @@
 ## Some Projects:
 
 <h3 align="center">Trybe Projects</h3>
+<h2 align="center">FrontEnd Projects</h2>
 <a href="https://matheuscpellanda.github.io/trybetunes" target="_blank" rel="noreferrer"> <img src="https://github.com/matheuscpellanda/trybetunes/blob/main/src/img/logo.png" alt="TrybeTunes" height="40"/> </a>
 <a href="https://matheuscpellanda.github.io/tryunfo" target="_blank" rel="noreferrer"> <img src="https://github.com/matheuscpellanda/tryunfo/blob/main/src/img/logo_tryunfo.png" alt="Tryunfo" height="40"/> </a>
 
